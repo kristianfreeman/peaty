@@ -27,7 +27,7 @@ import {
 import { analyzeSchema as schema } from '~/schema';
 import useStore from '~/store';
 
-const dialogText = `Dr. Ray Peat said this:
+const dialogText = `[Dr. Ray Peat](http://raypeat.com) said this:
 
 > "Oral or armpit temperature in the morning, before getting out of bed, should be around 98° F [36.6* C], and it should rise to 98.6° F [37.1° C] by mid-morning. [...] Healthy populations have an average resting pulse rate of about 85 per minute."
 
