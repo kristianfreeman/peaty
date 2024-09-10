@@ -1,4 +1,4 @@
 name = "peaty-temperature"
 pages_build_output_dir = "./build/client"
-compatibility_flags = ["experimental:nodejs_compat_v2"]
+compatibility_flags = ["nodejs_compat"]
 compatibility_date = "2024-09-10"
