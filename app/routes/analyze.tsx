@@ -27,8 +27,8 @@ export async function action({ context, request }: LoaderFunctionArgs) {
 ${entries.map((e: any) => `${e.date} ${e.time}: ${e.temperature}°F`).join('\n')}
 
 Consider Dr. Ray Peat's principles:
-1. Morning temperature should be around 98°F (36.6°C)
-2. Temperature should rise to 98.6°F (37.1°C) by mid-morning
+
+"Oral or armpit temperature in the morning, before getting out of bed, should be around 98° F [36.6* C], and it should rise to 98.6° F [37.1° C] by mid-morning.
 
 Provide an analysis of the data, including:
 1. Whether the temperatures align with Dr. Peat's recommendations
